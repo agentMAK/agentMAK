@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 😎 I'm a 24 years old full stack dev that loves working on DAOs, tokenomics and everything **Web3**
