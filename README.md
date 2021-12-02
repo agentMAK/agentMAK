@@ -10,7 +10,7 @@
 
 📫 Slide in my twitter DMs. Always happy to correspond.
 
-⚡ Skills:
+###⚡ Skills:
 - React
 - Typescript
 - Solidity
