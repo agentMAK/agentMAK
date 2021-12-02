@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**agentMAK/agentMAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+😎 I'm a 24 years old full stack dev that loves working on DAOs, and everything Web3
+
+🌎 I am located in Manchester, United Kingdom.
+
+👯 I currently contribute as Web3 Engineer at @IndexCoop and @CitaDAO. Both amazing projects!! Check them out.
+
+📫 Slide in my twitter DMs. Always happy to correspond.
+
+⚡ Skills: What I can do: 
+- React
+- Typescript
+- Solidity
+- Ethers
