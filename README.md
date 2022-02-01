@@ -7,7 +7,7 @@
 
 🌎 I am located in Manchester, UK
 
-📫 Slide in my twitter DMs. Always happy to correspond.
+📫 Slide into my twitter DMs. Always happy to correspond.
 
 ### ⚡ Skills:
 - React
