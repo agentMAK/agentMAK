@@ -5,7 +5,7 @@
 
 👯 I currently contribute as Web3 Engineer at [@IndexCoop](https://twitter.com/indexcoop) and [@CitaDAO](https://twitter.com/citadao_io). Both amazing projects!! Check them out.
 
-🌎 I am located in Manchester, UK
+🌎 I am located in the UK
 
 📫 Slide into my twitter DMs. Always happy to correspond.
 
