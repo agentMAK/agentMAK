@@ -3,7 +3,7 @@
 
 😎 I'm a full stack dev that loves working on DAOs, tokenomics and everything **Web3**
 
-👯 I currently contribute as Web3 Engineer at [@IndexCoop](https://twitter.com/indexcoop) and [@CitaDAO](https://twitter.com/citadao_io). Both amazing projects!! Check them out.
+👯 I currently contribute as Web3 Engineer at [@TokenLogic](https://twitter.com/Token_Logic) and [@IndieDAO](https://www.indiedao.xyz/).  Check them out.
 
 🌎 I am located in the UK
 
